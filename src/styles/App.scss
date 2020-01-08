@@ -1,0 +1,22 @@
+@import './variables';
+@import './component_navbar';
+@import './component_login';
+@import './component_footer';
+@import './home';
+@import './movieManagement';
+@import './transactionHistory';
+@import './warningPage';
+@import './registration';
+@import './movie';
+@import './seatReservation';
+@import './userTickets';
+@import './profile';
+
+.App-container {
+  // background-image: radial-gradient(#434343 0%, black 100%);  
+  // background-attachment: fixed;
+}
+
+button{
+  border-radius: 0px !important;
+}
